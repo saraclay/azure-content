@@ -40,7 +40,11 @@ By following this tutorial, you will build a simple registration web app in PHP.
 
 ##Set up the development environment
 
-This tutorial assumes you have [PHP][install-php], the MySQL Command-Line Tool (part of [MySQL][install-mysql]), a web server, and [Git][install-git] installed on your computer.
+Tools:
+* [PHP][install-php]
+* the MySQL Command-Line Tool (part of [MySQL][install-mysql])
+* a web server
+* [Git][install-git] installed on your computer.
 
 > [AZURE.NOTE]
 > If you are performing this tutorial on Windows, you can set up your machine for PHP and automatically configure IIS (the built-in web server in Windows) by installing the <a href="http://www.microsoft.com/web/handlers/webpi.ashx/getinstaller/azurephpsdk.appids">Azure SDK for PHP</a>.
@@ -92,7 +96,7 @@ To connect to the MySQL database that is running in Web Apps, your will need the
 
 	![Select database][select-database]
 
-2. From the database sumamry, select **Properties**.
+2. From the database summary, select **Properties**.
 
     ![Select properties][select-properties]
 
